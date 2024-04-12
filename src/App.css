@@ -1,0 +1,13 @@
+.parent {
+    border: 2px solid darkcyan;
+    border-radius: 6px;
+    padding: 2rem;
+}
+
+.App {
+    background-color: rgba(52, 53, 80, 0.373);
+    padding: 10px;
+    border: 1px solid #234;
+    border-radius: 10px;
+    color: white;
+}
