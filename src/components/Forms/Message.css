@@ -1,0 +1,6 @@
+textarea {
+  outline: none;
+  border: 1px solid dodgerblue;
+  border-radius: 4px;
+  padding: 0.6rem;
+}

@@ -1,0 +1,30 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  color: #ccc;
+  background: rgb(7, 18, 24);
+}
+
+.list-group {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.2rem;
+  flex-grow: 0.3;
+}
+
+.list-group-item:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+span {
+  font-size: 1.6rem;
+}
+
+span:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}

@@ -1,51 +1,50 @@
-
 .badge {
-   padding: 10px;
-   margin: 5px;
-   border: 0;
-   border-radius: 100%;
-   font-size: 1.2rem;
-  };
+  padding: 10px;
+  margin: 5px;
+  border: 0;
+  border-radius: 100%;
+  font-size: 1.2rem;
+}
 
-  .badge--warnig {
-    background-color: gold;
-    color: #444;
-  }
+.badge--warnig {
+  background-color: gold;
+  color: #444;
+}
 
-  .badge--secondary {
-    background: dodgerblue;
-    color: #fff;
-  }
+.badge--secondary {
+  background: dodgerblue;
+  color: #fff;
+}
 
-  .btn {
-    padding: 6px 10px;
-    margin: 5px;
-    border: 0;
-    border-radius: 3px;
-    font-size: 1.4rem;
-  }
-  
-  .btn--secondary {
-    background: darkcyan;
-    color: #444;
-  }
+.btn {
+  padding: 6px 10px;
+  margin: 5px;
+  border: 0;
+  border-radius: 3px;
+  font-size: 1.4rem;
+}
 
-  .btn--primary {
-    background-color: #9a9393;
-    color: #1f1d1d;
-  }
-  .btn--accent {
-    background-color: rgb(245, 105, 105);
-    color: #ccc;
-  }
+.btn--secondary {
+  background: darkcyan;
+  color: #444;
+}
 
-  .btn--black {
-    background: rgb(47, 46, 46);
-    color: #ccc;
-  }
-  .component {
-    border:1px solid #ffdefe;
-    border-radius: 10px;
-    margin-bottom: 6px;
-    background: #123;
-  }
+.btn--primary {
+  background-color: #9a9393;
+  color: #1f1d1d;
+}
+.btn--accent {
+  background-color: rgb(222, 65, 65);
+  color: #ccc;
+}
+
+.btn--black {
+  background: rgb(47, 46, 46);
+  color: #ccc;
+}
+.component {
+  border: 1px solid #ffdefe;
+  border-radius: 10px;
+  margin-bottom: 6px;
+  background: #123;
+}
