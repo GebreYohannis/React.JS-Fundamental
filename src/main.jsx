@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <React.Fragment>
       <NavBar />
       <LoginForm />
-      <Message />
+
     </React.Fragment>
   </React.StrictMode>
 );
